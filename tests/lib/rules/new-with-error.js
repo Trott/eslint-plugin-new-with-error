@@ -25,12 +25,23 @@ ruleTester.run("new-with-error", rule, {
     valid: [
         {
             code: "throw new Error();"
+        },
+        {
+            code: "throw SyntaxError();",
+            options: ['Error']
         }
     ],
 
     invalid: [
         {
             code: "throw Error();",
+            errors: [{
+                message: "Use new keyword when throwing.",
+                type: "ThrowStatement"
+            }]
+        },
+        {
+            code: "throw SyntaxError();",
             errors: [{
                 message: "Use new keyword when throwing.",
                 type: "ThrowStatement"
