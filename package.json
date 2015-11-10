@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-new-with-error",
+  "version": "0.0.0",
+  "description": "Require `throw new Error()` and not `throw Error()`",
+  "repository": "https://github.com/Trott/eslint-plugin-new-with-error",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/lib/rules/new-with-error.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Rich Trott <rtrott@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+}
