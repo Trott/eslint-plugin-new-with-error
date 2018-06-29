@@ -17,10 +17,10 @@
   "author": "Rich Trott <rtrott@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">=1.10.3"
+    "eslint": ">=2.13.1"
   },
   "devDependencies": {
-    "eslint": "^1.10.3"
+    "eslint": "^2.13.1"
   },
   "dependencies": {}
 }
