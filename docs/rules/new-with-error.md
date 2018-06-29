@@ -25,7 +25,7 @@ throw new Error('foo');
 
 ### Options
 
-You can include an array of Error types you want checked (SyntaxError, ReferenceError, etc.). Or don't provide it and you'll just get checks on Error.
+You can include an array of Error types you want checked (SyntaxError, ReferenceError, etc.). Or don't provide it and you'll get checks on Error, EvalError, RangeError, ReferenceError, SyntaxError, TypeError, and URIError.
 
 ## When Not To Use It
 
