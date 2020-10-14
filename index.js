@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 module.exports = {
   rules: {
@@ -7,4 +7,4 @@ module.exports = {
   rulesConfig: {
     'new-with-error': 1
   }
-};
+}
