@@ -10,15 +10,15 @@
 // Requirements
 // ------------------------------------------------------------------------------
 
-var rule = require('../../../lib/rules/new-with-error')
+const rule = require('../../../lib/rules/new-with-error')
 
-var RuleTester = require('eslint').RuleTester
+const RuleTester = require('eslint').RuleTester
 
 // ------------------------------------------------------------------------------
 // Tests
 // ------------------------------------------------------------------------------
 
-var ruleTester = new RuleTester()
+const ruleTester = new RuleTester()
 ruleTester.run('new-with-error', rule, {
 
   valid: [
