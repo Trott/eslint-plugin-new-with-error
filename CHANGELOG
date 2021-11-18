@@ -10,8 +10,7 @@
 
 * drop support for Node.js < 12.x.
 
-# Changelog
 
-## 2.0.0
+# 2.0.0
 
 Now requires ESLint 2 or higher.
