@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v2.0.0...v3.0.0) (2021-11-18)
+
+
+### chore
+
+* test all versions of ESLint that we support ([#24](https://github.com/Trott/eslint-plugin-new-with-error/issues/24)) ([221a5fc](https://github.com/Trott/eslint-plugin-new-with-error/commit/221a5fc3ff799b54c7fb5ff3c6d87856e190605d))
+
+
+### BREAKING CHANGES
+
+* drop support for Node.js < 12.x.
+
 # Changelog
 
 ## 2.0.0
