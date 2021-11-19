@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v3.0.0...v3.1.0) (2021-11-19)
+
+
+### Features
+
+* make rule fixable ([#25](https://github.com/Trott/eslint-plugin-new-with-error/issues/25)) ([72666f4](https://github.com/Trott/eslint-plugin-new-with-error/commit/72666f4822e2df25f685c8039e282d9739dce8d6))
+
 # [3.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v2.0.0...v3.0.0) (2021-11-18)
 
 
