@@ -37,14 +37,16 @@ ruleTester.run('new-with-error', rule, {
       errors: [{
         message: 'Use new keyword when throwing.',
         type: 'ThrowStatement'
-      }]
+      }],
+      output: 'throw new Error();'
     },
     {
       code: 'throw SyntaxError();',
       errors: [{
         message: 'Use new keyword when throwing.',
         type: 'ThrowStatement'
-      }]
+      }],
+      output: 'throw new SyntaxError();'
     }
   ]
 })
