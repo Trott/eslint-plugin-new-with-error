@@ -22,8 +22,11 @@
     "eslint": ">=2.13.1"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "c8": "^7.10.0",
     "eslint": "^8.2.0",
+    "semantic-release": "^19.0.0-beta.1",
     "standard": "^16.0.4"
   },
   "release": {
@@ -51,10 +54,5 @@
         }
       ]
     ]
-  },
-  "dependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^19.0.0-beta.1"
   }
 }
