@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v3.1.0...v4.0.0) (2023-03-27)
+
+
+### chore
+
+* drop support for Node.js 12.x ([#53](https://github.com/Trott/eslint-plugin-new-with-error/issues/53)) ([7660ef6](https://github.com/Trott/eslint-plugin-new-with-error/commit/7660ef6fc6fba0f2d7d0b639e9d2d579ef5626a3))
+
+
+### BREAKING CHANGES
+
+* Node.js 14.x or newer is now required
+
 # [3.1.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v3.0.0...v3.1.0) (2021-11-19)
 
 

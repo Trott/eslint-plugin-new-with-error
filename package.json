@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-new-with-error",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "Require `throw new Error()` and not `throw Error()`",
   "repository": "https://github.com/Trott/eslint-plugin-new-with-error",
   "directories": {
