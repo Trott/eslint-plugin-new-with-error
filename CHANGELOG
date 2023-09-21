@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v4.0.0...v5.0.0) (2023-09-21)
+
+
+### chore
+
+* update test matrix ([#80](https://github.com/Trott/eslint-plugin-new-with-error/issues/80)) ([e75b504](https://github.com/Trott/eslint-plugin-new-with-error/commit/e75b504aaeb6416d1a3b27fe21d0c71e0968ce51))
+
+
+### BREAKING CHANGES
+
+* Node.js 18.x or newer is required
+
 # [4.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v3.1.0...v4.0.0) (2023-03-27)
 
 
