@@ -24,7 +24,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "c8": "^8.0.0",
+    "c8": "^9.0.0",
     "eslint": "^8.15.0",
     "semantic-release": "^22.0.1",
     "standard": "^17.0.0"
