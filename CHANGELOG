@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v5.0.0...v6.0.0) (2026-07-20)
+
+
+### chore
+
+* update test matrix ([#202](https://github.com/Trott/eslint-plugin-new-with-error/issues/202)) ([8d0d027](https://github.com/Trott/eslint-plugin-new-with-error/commit/8d0d027c376fad99b77e5f91c2824a12625e540e))
+
+
+### BREAKING CHANGES
+
+* Drop support for Node.js prior to 22.x
+
 # [5.0.0](https://github.com/Trott/eslint-plugin-new-with-error/compare/v4.0.0...v5.0.0) (2023-09-21)
 
 
